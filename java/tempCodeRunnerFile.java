@@ -1,1 +1,0 @@
-System.out.println("for contain arr player: ");
