@@ -11,13 +11,12 @@ using namespace std;
 6. Set N = N-1
 7. Stop
 */
-int main(){
+int main()
+{
     int p;
     cout << "How many length:";
     cin >> p;
-    vector<int>a(p);
+    vector<int> a(p);
     int i;
-   cout << "Before Delete:" << endl;
-   
-
+    cout << "Before Delete:" << endl;
 }

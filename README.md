@@ -8,24 +8,19 @@ Bahasa Programming yang saya gunakan:
 
 ## Basic Topics:
 
-- [ ] Array
-- [ ] Matrix
-- [ ] String
-- [ ] Math
-- [ ] Hashing
-- [ ] Greedy
-- [ ] Binary Search
-- [ ] Two pointer
-- [ ] Sliding window
-- [ ] Divide and Conquer
-- [ ] Bit Manipulation
+- [ ] Array Representations (Dynamic vs Static)
+- [ ] Recursion
+- [ ] Array ADT (Abstract Data Type)
+- [ ] Strings
 
 ## Data Structure:
 
 - [ ] Stack (Basic Array,Linked List Array)
-- [ ] Queue
+<!-- - [ ] Queue -->
 - [ ] Linked List
 - [ ] Doubly Linked List
 - [ ] Tree
 - [ ] Graphs
-- [ ] Head (Priority Queue)
+  <!-- - [ ] Head (Priority Queue) -->
+
+  _Note:_ Setiap algoritma dan topik, harus ditulis dengan cara latex
